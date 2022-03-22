@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherForcast</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="currentWeather">Current Weather</string>
+    <string name="location">Location</string>
+    <string name="radar">Radar</string>
+    <string name="settings">Settings</string>
+
+    <string name="appId">a27a4148745d2dc7e026b7a869d5a6f9</string>
+</resources>
